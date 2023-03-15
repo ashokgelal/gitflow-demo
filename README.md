@@ -7,5 +7,9 @@
 * step 2
 * step 2.1
 * step 3
+* add more steps
+
 
 # some more docs
+
+# add some logo
